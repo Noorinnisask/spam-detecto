@@ -60,3 +60,4 @@ Python, pandas, scikit-learn, Streamlit
 Noorinnisa Shaik
 
 *Dataset: SMS Spam Collection, UCI Machine Learning Repository.*
+   **Live demo:** <https://noorinnisa-spam-detector.streamlit.app/>
